@@ -8,7 +8,28 @@ Learning to code was -and still sometimes - a challenging journey.Regarless, I s
  - Beliving in what my determination can achive
  - Being in a constant learning environment
 
-#### "My favorite part of business analytics is delivering valuable insights, is the best feeling!!"
+**Educational Background**
+
+| Course                                  | University                  |  Location                     
+|-----------------------------------------| ----------------------------| ------------------- |
+| Master of Science in Business Analytics | Hult Business School        |  Boston, MA         |
+| Bachelors in Business Adminitration     | Hult Business School        |  San Francisco, CA  |
+| Minor in Psychology                     | Hult Business School        |  San Francisco, CA  |
+
+**Relevant Courses**
+
+- Data Science: Python
+- Data SCience: R
+- Data Management: Tableu
+- Data Vizualization
+- Data Optimazation
+- Data Analytics
+- Data Fundamentals
+- Machine Learning
+- Text Analytics & NLP
+
+                                            "My favorite part of business analytics is delivering 
+                                                   valuable insights, is the best feeling!!" 
 
 # My Analytical Portafolio
 
@@ -21,14 +42,5 @@ My portafolio showcases all individual and team projects during the course of my
 - R
 - Tableau
 
-**Master Program Courses**
 
-- Data Science: Python
-- Data SCience: R
-- Data Management: Tableu
-- Data Vizualization
-- Data Optimazation
-- Data Analytics
-- Data Fundamentals
-- Machine Learning
-- Text Analytics & NLP
+
