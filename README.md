@@ -1,14 +1,12 @@
 ## 👋 Hi, I’m Gleidy
 
 [LinkedIn Profile](https://www.linkedin.com/in/gleidyrodriguez/) 
+[Tableu Portafolio]
+[Power BI Portafolio
 
 **About Me** 
 
-Learning to code was -and still sometimes - a challenging journey.Regarless, I stay motivated to do my absolute best y.
- - Thinking of my careers goals and how I can get there
- - Applying my morals and values to everything I do
- - Beliving in what my determination can achive
- - Being in a constant learning environment
+Learning to code was -and still sometimes - a challenging journey.Regarless, I stay motivated to do my absolute best by beliving in what my determination can achive; and being in a constant learning environment
 
 **Educational Background**
 
@@ -29,6 +27,7 @@ Learning to code was -and still sometimes - a challenging journey.Regarless, I s
 - Data Fundamentals
 - Machine Learning
 - Text Analytics & NLP
+- Data Mining
 
                                             "My favorite part of business analytics is delivering 
                                                    valuable insights, is the best feeling!!" 
