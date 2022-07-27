@@ -1,8 +1,6 @@
 ## 👋 Hi, I’m Gleidy
 
 [LinkedIn Profile](https://www.linkedin.com/in/gleidyrodriguez/) 
-[Tableu Portafolio]
-[Power BI Portafolio
 
 **About Me** 
 
@@ -38,8 +36,7 @@ My portafolio showcases all individual and team projects during the course of my
 
 
 - [Tableau Portfolio](https://public.tableau.com/app/profile/gleidy.rodriguez.alonzo#!/?newProfile=&activeTab=0)
-- Excel
-- Python
-- R
+- [Power BI Portafolio]
+
 
 
