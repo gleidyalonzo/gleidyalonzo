@@ -28,7 +28,7 @@ Learning to code was -and still sometimes - a challenging journey.Regarless, I s
 - Data Mining
 
                                             "My favorite part of business analytics is delivering 
-                                                   valuable insights, is the best feeling!!" 
+                                                   valuable  and actionable insights!!" 
 
 # My Analytical Portafolio
 
