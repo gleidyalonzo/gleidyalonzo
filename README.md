@@ -3,6 +3,6 @@
 [LinkedIn Profile](https://www.linkedin.com/in/gleidyrodriguez/) 
 
 
-- [Tableau Portfolio](https://public.tableau.com/app/profile/gleidy.rodriguez.alonzo#!/?newProfile=&activeTab=0)
+- [Tableau Portfolio](https://public.tableau.com/app/profile/gleidy.rodriguez.alonzo#!/?newProfile=&activeTab=0) - currently working on it
 
 
